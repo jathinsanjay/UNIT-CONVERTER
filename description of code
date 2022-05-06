@@ -1,0 +1,5 @@
+This code is written in c language.It converts the value in one unit to the other.The simple logic behind this  project is to make the user select the prefered choice i.e.,Asking the 
+user to enter the choice they prefered to convert and just using loops making the condition happen with simple math multiplications.In this we have divided conversions under 3 types
+Temparature,mass,currency.First we take input from user for preffered choice using scanf statments,we make 3 if loops for this and we make choice of every unit under  their respective
+category.For example if user selects Temperature of first choice ,2 choices are given to them farenhiet to celcius and celcius to farenhiet we maforke user to select one choice among
+them using one more if ,else,else if loops,printing of result is done under every loop with the calculation required for conversion being done.This is how a simple converter is made.
